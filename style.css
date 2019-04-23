@@ -1,0 +1,39 @@
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-size: cover;
+}
+.devil {
+background-image: linear-gradient(to right, #444444, #979797, #242424, #161616, #000000);
+}
+
+.black {
+background-color: black; 
+}
+
+ .cosmos {
+ background-image: linear-gradient(to right, #bfc0c4, #a5a6a9, #8d8d8f, #747476, #5d5d5e);
+ }
+
+ .fas {
+display: flex;
+justify-content: flex-end;	
+font-size: 40px;
+}
+
+
+
+#chimage {
+	width: 300px;
+	height: 300px;
+	border-radius: 80%;
+}
+.kira {
+	background-image: linear-gradient(to right top, #f0b0d4, #f0a5d4, #ef9bd5, #ed90d7, #ea86da, #e67edb, #e277dc, #de6fdd, #da68dc, #d661da, #d15ad9, #cd53d8);	
+display: flex;
+justify-content: center;
+}
+
+
